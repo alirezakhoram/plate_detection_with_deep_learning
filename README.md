@@ -5,7 +5,7 @@ Open the code folder
 
 # 2
 
-To detect the location of the license plate, run the file Detection.py #the dataset in on the dataset file
+To detect the location of the license plate, run the file Detection.py ,dataset in the dataset file
 # 3
 for segmention run the segmention.py
 # 4
